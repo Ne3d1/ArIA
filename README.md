@@ -5,6 +5,8 @@ This project is made with AI, ChatGPT and Claude, but it is not made for nothing
 
 Everything in this project is made with free plans of AI.
 
+Screen reader only works in v1.7.3 +
+
 ## Installation
 ### Linux:
 Extra ZIP `ArIA-vx.x.x`
@@ -25,3 +27,11 @@ Run this files:
 
 ## Corpus:
 there is only the v3 corpus, but from versions 1.2 to 1.5 you haveto install it manually.
+
+## Working things
+Thing|Version
+:--|--:
+Linux|1.2.0+
+Included Corpus|1.6.0+
+Windows|1.7.2+
+Screen Reader|1.7.3
