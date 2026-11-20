@@ -15,7 +15,7 @@ Run this comands:
 - `./importar-corpus.sh` (v1.5 +)
 - `./run.sh` or `./run.sh --cli` if you want terminal version
 
-### Windows:
+### Windows (only v1.7.2 windows fix +):
 Extra ZIP `ArIA-vx.x.x`
 
 Run this files:
