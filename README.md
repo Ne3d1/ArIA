@@ -25,6 +25,11 @@ Run this files:
 - `importar-corpus.bat` (v1.6 +)
 - `run.bat`
 
+Or run this comands in the folder cmd:
+- `.\setup.bat`
+- `.\importar-corpus.bat`
+- `.\run.bat` or `.\run.bat --cli` if you want terminal version
+
 ## Corpus:
 there is only the v3 corpus, but from versions 1.2 to 1.5 you haveto install it manually.
 
