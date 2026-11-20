@@ -9,14 +9,16 @@ Everything in this project is made with free plans of AI.
 ### Linux
 Extra ZIP `ArIA-vx.x.x`
 Open a terminal in the folder
+
 Run this comands:
-`./setup.sh`
-`./importar-corpus.sh` (v1.5 +)
-`./run.sh` or `./run.sh --cli` if you want terminal version
+- `./setup.sh`
+- `./importar-corpus.sh` (v1.5 +)
+- `./run.sh` or `./run.sh --cli` if you want terminal version
 
 ### Windows:
 Extra ZIP `ArIA-vx.x.x`
+
 Run this files:
-`setup.bat`
-`importar-corpus.bat`
-`run.bat`
+- `setup.bat`
+- `importar-corpus.bat`
+- `run.bat`
