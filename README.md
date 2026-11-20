@@ -34,4 +34,4 @@ Thing|Version
 Linux|1.2.0+
 Included Corpus|1.6.0+
 Windows|1.7.2+
-Screen Reader|1.7.3
+Screen Reader|1.7.3.1+
